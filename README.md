@@ -4,7 +4,7 @@
 
 Submitted by: **Steve Rentschler**
 
-Time spent: **X** hours spent in total
+Time spent: 1 1/2 hours spent in total
 
 ## User Stories
 
@@ -29,15 +29,15 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/ihGanCN11SFq8h3NL6/giphy.gif' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [giphy](https://giphy.com/gifs/ihGanCN11SFq8h3NL6).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The tutoral video provided by Code Path for the tip calculator was using a slightly older version of Xcode, so I had to do a few google searches to find some of the menus and I had a problem getting recordit to work so I used giphy instead to upload the gif.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2019] [Steve Rentschler]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
