@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/ihGanCN11SFq8h3NL6/giphy.gif' width='' alt='Video Walkthrough' />
 
-GIF created with [giphy](https://giphy.com/gifs/ihGanCN11SFq8h3NL6).
+GIF created with [giphy](https://giphy.com).
 
 ## Notes
 
